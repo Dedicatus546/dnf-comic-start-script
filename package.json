@@ -1,0 +1,17 @@
+{
+  "name": "dnf-comic-star-script",
+  "version": "1.0.0",
+  "description": "DNF《勇士的意志》漫画活动篡改猴脚本",
+  "main": "index.js",
+  "keywords": [
+    "DNF",
+    "勇士的意志",
+    "tampermonkey",
+    "篡改猴"
+  ],
+  "author": {
+    "name": "Par9uet",
+    "email": "qq1607611087@gmail.com"
+  },
+  "license": "GPL-3.0-only"
+}
