@@ -3,7 +3,6 @@
 // @homepage     https://github.com/Dedicatus546/dnf-comic-start-script
 // @version      2025-01-01
 // @description  《勇士的意志》第二季活动观看获取星星
-// @version      1.0
 // @author       Par9uet
 // @match        https://dnf.qq.com/cp/a20231211comic/index.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=qq.com
